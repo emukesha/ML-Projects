@@ -1,0 +1,1 @@
+This project aims at studying the impact of hyperparameter tuning on the performance of the Neural Networks model that is applied on the data file of credit card applications. It uses Grid Search to perform hyperparameter tuning and 10-fold cross validation to evaluate the model.
